@@ -3,7 +3,7 @@
 <p align="left">
   🎓 Estudante de Segurança da Informação.
   <br>
-  🚀 Explorando o universo da Cibersegurança e apaixonado por criar ambientes digitais mais seguros.
+  🚀 Explorando o universo da Cibersegurança.
 </p>
 
 ---
